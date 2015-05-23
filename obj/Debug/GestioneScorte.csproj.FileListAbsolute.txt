@@ -1,0 +1,6 @@
+C:\Users\Eodoardo\Desktop\C#\GESTIONESCORTE-TESI\GestioneScorte\GestioneScorte\bin\Debug\GestioneScorte.exe.config
+C:\Users\Eodoardo\Desktop\C#\GESTIONESCORTE-TESI\GestioneScorte\GestioneScorte\bin\Debug\GestioneScorte.exe
+C:\Users\Eodoardo\Desktop\C#\GESTIONESCORTE-TESI\GestioneScorte\GestioneScorte\bin\Debug\GestioneScorte.pdb
+C:\Users\Eodoardo\Desktop\C#\GESTIONESCORTE-TESI\GestioneScorte\GestioneScorte\obj\Debug\GestioneScorte.exe
+C:\Users\Eodoardo\Desktop\C#\GESTIONESCORTE-TESI\GestioneScorte\GestioneScorte\obj\Debug\GestioneScorte.pdb
+C:\Users\Eodoardo\Desktop\C#\GESTIONESCORTE-TESI\GestioneScorte\GestioneScorte\obj\Debug\GestioneScorte.csprojResolveAssemblyReference.cache
